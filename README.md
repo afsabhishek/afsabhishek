@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to play PC Games and finding hacks and vulnerabilities  
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/6Fjf0UwQsF3SBxju3prP4L?si=H5cRanwqRK-H8uCJUZH1-w)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="afsabhishek Spotify Playing" width="350" />](https://open.spotify.com/track/0h2G5eQxLnsfEgDkNOgsyK?si=4VkNPOjXQi2EuSKO6N__dA)
 
 ### Connect with me:
 

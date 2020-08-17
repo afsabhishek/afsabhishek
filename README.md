@@ -28,6 +28,7 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />]
 [<img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />][Android] 
 [<img align="left" alt="Flutter" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png" />][Flutter] 
+[<img align="left" alt="Flutter" width="26px" src="https://www.logolynx.com/images/logolynx/7a/7a39155f3cafab7ca5ad9cbc6566fd11.png" />][Material Design] 
 
 <br />
 <br />
@@ -89,5 +90,9 @@ coming soon...
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
+[kotlin]: https://kotlinlang.org/
+[Android]: https://www.android.com/
+[Flutter]: https://flutter.dev/
+[Material Design]: https://material.io/design
 [instagram]: https://www.instagram.com/danteabhishek
 [linkedin]: https://www.linkedin.com/in/abhishek-kumar-96a2b023/ 

@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />][Kotlin]
+[<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />]
 [<img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />][Android] 
 [<img align="left" alt="Flutter" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png" />][Flutter] 
 

@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn more and create more
+- 🥅 2021 Goals: Learn more and create more and Live Peacefully 
 - ⚡ Fun fact: I love to play PC Games and finding hacks and vulnerabilities  
 
 ### Spotify Playing 🎧
